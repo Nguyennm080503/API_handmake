@@ -1,0 +1,4 @@
+com\minhnguyen\bookstore\config\BookStoreApplication.class
+com\minhnguyen\bookstore\dto\Book.class
+com\minhnguyen\bookstore\resourse\v1\AuthorResource.class
+com\minhnguyen\bookstore\resourse\v1\BookResource.class
